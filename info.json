@@ -1,0 +1,18 @@
+{
+    "name": "Nick Tartaro",
+    "website": "https://www.nicktartaro.com/",
+    "linkedin": "",
+    "github": "https://github.com/ntartaro/",
+    "email": "ntartaro@gmail.com",
+    "resume": "",
+    "proficient-technologies": [
+        "html", 
+        "css", 
+        "javascript", 
+        "node"
+    ],
+    "other-skills": [
+        "backpacking",
+        "guitar"
+    ]
+}

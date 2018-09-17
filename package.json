@@ -1,0 +1,19 @@
+{
+  "name": "ntartaro-resume",
+  "version": "1.0.0",
+  "description": "For this exercise we're going to create our own npm package that will print out your resume.  the cool thing about this is that anyone can install your code and print out a resume from their console!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ntartaro/npm-resume.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "your-command-here": "./index.js"
+  }
+}
+
